@@ -1,1 +1,1 @@
-# steinsgate1.github.io
+# steinsgate.github.io
